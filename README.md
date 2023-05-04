@@ -1,6 +1,6 @@
 # NLP-Project-Deep-Learning
 
-
+Recommendation system using Word2Vec
 1) Dataset- Game of thrones
 https://drive.google.com/drive/folders/1Rq1_EqgTOBg8Q7HxjQLUZkulZUN1FCWJ?usp=share_link
 
